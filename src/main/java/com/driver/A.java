@@ -2,7 +2,7 @@ package com.driver;
 
 public class A {
 
-    public static String meth(){
+    public String meth(){
         String name = "manju";
         System.out.println(name);
         return name;
